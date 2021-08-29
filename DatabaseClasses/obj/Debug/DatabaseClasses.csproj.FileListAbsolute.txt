@@ -1,0 +1,19 @@
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\bin\Debug\DatabaseClasses.dll
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\bin\Debug\DatabaseClasses.pdb
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\bin\Debug\CustomerClasses.dll
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\bin\Debug\Oracle.DataAccess.dll
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\bin\Debug\CustomerClasses.pdb
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\obj\Debug\DatabaseClasses.csprojAssemblyReference.cache
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\obj\Debug\DatabaseClasses.csproj.CoreCompileInputs.cache
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\obj\Debug\DatabaseClasses.csproj.CopyComplete
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\obj\Debug\DatabaseClasses.dll
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\obj\Debug\DatabaseClasses.pdb
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\bin\Debug\DatabaseClasses.dll
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\bin\Debug\DatabaseClasses.pdb
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\bin\Debug\CustomerClasses.dll
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\bin\Debug\CustomerClasses.pdb
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\obj\Debug\DatabaseClasses.csproj.AssemblyReference.cache
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\obj\Debug\DatabaseClasses.csproj.CoreCompileInputs.cache
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\obj\Debug\DatabaseClasses.csproj.CopyComplete
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\obj\Debug\DatabaseClasses.dll
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\DatabaseClasses\obj\Debug\DatabaseClasses.pdb

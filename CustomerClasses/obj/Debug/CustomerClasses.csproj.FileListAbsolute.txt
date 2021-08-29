@@ -1,0 +1,12 @@
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\CustomerClasses\bin\Debug\CustomerClasses.dll
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\CustomerClasses\bin\Debug\CustomerClasses.pdb
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\CustomerClasses\obj\Debug\CustomerClasses.csprojAssemblyReference.cache
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\CustomerClasses\obj\Debug\CustomerClasses.csproj.CoreCompileInputs.cache
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\CustomerClasses\obj\Debug\CustomerClasses.dll
+H:\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\CustomerClasses\obj\Debug\CustomerClasses.pdb
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\CustomerClasses\bin\Debug\CustomerClasses.dll
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\CustomerClasses\bin\Debug\CustomerClasses.pdb
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\CustomerClasses\obj\Debug\CustomerClasses.csproj.AssemblyReference.cache
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\CustomerClasses\obj\Debug\CustomerClasses.csproj.CoreCompileInputs.cache
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\CustomerClasses\obj\Debug\CustomerClasses.dll
+I:\HUMBER BACKUP\SEMESTER 02\FRAMEWORK PROGRAMMING CPAN-151-RNB\WEEK 14\Project 2 Start\Project 2\CustomerClasses\obj\Debug\CustomerClasses.pdb
